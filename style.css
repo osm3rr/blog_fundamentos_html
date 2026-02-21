@@ -1,0 +1,18 @@
+/* selector por etiquetas */
+header h1 {
+    color:blue;
+}
+
+article h2 {
+    color: red;
+}
+
+/* selector por clases */
+.subtitulo {
+    color: green;
+}
+
+/* selector por id */
+#pie-pagina {
+    color: orange;
+}
